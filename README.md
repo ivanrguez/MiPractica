@@ -1,7 +1,7 @@
--¿Qué comando utilizaste en el paso 11? ¿Por qué?
+- ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 git reset --hard HEAD~1
 Deshace el último commit y lo que había en mi working copy de manera que todo quede como estaba antes nuestro straging area queda vacío
--¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
+- ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 git reflog observo todo lo que ha pasado,
 git reset 1d4c5e1 para volver que hemos desecho, lo comprobamos con git log y vuelve aparecer el archivo modificado
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
